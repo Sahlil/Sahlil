@@ -54,10 +54,14 @@ Saya adalah seorang **Praktisi IT** yang berfokus pada **Pengembangan Web & Mobi
 
 ## 📈 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sahlil&show_icons=true&theme=radical&include_all_commits=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahlil&layout=compact&langs_count=6&theme=radical" width="48%" />
-</div>
+<p align="center">
+  <a href="https://github.com/Sahlil">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Sahlil&show_icons=true&theme=radical&include_all_commits=true&count_private=true" height="180em" />
+  </a>
+  <a href="https://github.com/Sahlil">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Sahlil&layout=compact&langs_count=6&theme=radical" height="180em" />
+  </a>
+</p>
 
 <br>
 
