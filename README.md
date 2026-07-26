@@ -21,8 +21,8 @@
 ```typescript
 const sahlil = {
     role: "IT Practitioner & Full-Stack Developer",
-    location: "Indonesia 🇮🇩",
-    education: "D3 Teknologi Informasi (GPA: 3.85/4.00)",
+    location: "Indonesia",
+    education: "Teknologi Informasi (GPA: 3.88/4.00)",
     focus: ["Web Development", "Mobile Development", "Server Administration"],
     currentlyBuilding: "Enterprise & Inventory Management Systems",
     passion: "Membangun sistem yang optimal, aman, & scalable",
