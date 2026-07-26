@@ -116,27 +116,29 @@ const sahlil = {
 
 ## 🎓 Education & Additional Skills
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🏛️ Education</h4>
-      <ul>
-        <li><b>Politeknik Negeri Tanah Laut</b></li>
-        <li>Diploma Teknologi Informasi</li>
-        <li>IPK: <b>3.85 / 4.00</b></li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h4>⭐ Additional Skills</h4>
-      <ul>
-        <li>Bug Fixing & Source Code Troubleshooting</li>
-        <li>Basic Network Configuration</li>
-        <li>Data Processing (Excel)</li>
-        <li>3rd Party API Integration (Midtrans, dll)</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%" valign="top">
+        <h4>🏛️ Education</h4>
+        <ul>
+          <li><b>Politeknik Negeri Tanah Laut</b></li>
+          <li>Diploma Teknologi Informasi</li>
+          <li>IPK: <b>3.85 / 4.00</b></li>
+        </ul>
+      </td>
+      <td width="50%" valign="top">
+        <h4>⭐ Additional Skills</h4>
+        <ul>
+          <li>Bug Fixing & Source Code Troubleshooting</li>
+          <li>Basic Network Configuration</li>
+          <li>Data Processing (Excel)</li>
+          <li>3rd Party API Integration (Midtrans, dll)</li>
+        </ul>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
