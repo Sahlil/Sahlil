@@ -145,16 +145,16 @@ const sahlil = {
 ## 📈 GitHub Statistics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sahlil&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8" />
+  <!-- <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sahlil&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8" /> -->
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sahlil&theme=radical&hide_border=true&background=0D1117&stroke=38BDF8&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" />
 </div>
 
-<div align="center">
+<!-- <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahlil&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=38BDF8" />
-</div>
+</div> -->
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sahlil&theme=react-dark&bg_color=0D1117&color=38BDF8&line=38BDF8&point=FFFFFF&hide_border=true" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sahlil&theme=react-dark&bg_color=0D1117&color=38BDF8&line=38BDF8&point=FFFFFF&hide_border=true&custom_days=7" width="90%"/>
 </div>
 
 ---
