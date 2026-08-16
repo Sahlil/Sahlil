@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&height=60&lines=Hi%2C+I'm+Muhammad+Sahlil+Rizki+%F0%9F%91%8B;IT+Practitioner+%7C+Full-Stack+Developer;Web+%26+Mobile+Developer;Server+Administration+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&height=60&lines=Hi%2C+I'm+Muhammad+Sahlil+Rizki+;IT+Practitioner+%7C+Full-Stack+Developer;Web+%26+Mobile+Developer;Server+Administration+Enthusiast" alt="Typing SVG" />
   </a>
 </div>
 
@@ -16,7 +16,7 @@
 
 <img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
 
-### 💫 About Me
+### About Me
 
 ```typescript
 const sahlil = {
@@ -35,31 +35,31 @@ const sahlil = {
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## Tech Stack & Tools
 
 <div align="center">
 
-#### 💻 Languages
+#### Languages
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-#### ⚡ Frameworks & Libraries
+#### Frameworks & Libraries
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
-#### 🗄️ Database & Infrastructure
+#### Database & Infrastructure
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![SSL/HTTPS](https://img.shields.io/badge/SSL%2FHTTPS-F38020?style=for-the-badge&logo=letsencrypt&logoColor=white)
 
-#### 🔧 Tools & DevOps
+#### Tools & DevOps
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
@@ -69,12 +69,12 @@ const sahlil = {
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>📦 Inventory Management Systems</h3>
+      <h3> Inventory Management Systems</h3>
       <p>Sistem inventaris gudang berbasis web untuk <b>PT Jasa Bara Anugerah (JBA)</b> & <b>PT Raja Ayam Dubai</b>.</p>
       <p>
         <img src="https://img.shields.io/badge/Laravel_12-FF2D20?style=flat-square&logo=laravel&logoColor=white"/>
@@ -82,7 +82,7 @@ const sahlil = {
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>📹 Real-time Mobile Streaming</h3>
+      <h3> Real-time Mobile Streaming</h3>
       <p>Aplikasi mobile untuk manajemen streaming CCTV secara langsung (live monitoring).</p>
       <p>
         <img src="https://img.shields.io/badge/React_Vite-61DAFB?style=flat-square&logo=react&logoColor=black"/>
@@ -92,7 +92,7 @@ const sahlil = {
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🏥 Medical Equipment Management</h3>
+      <h3> Medical Equipment Management</h3>
       <p>Sistem Manajemen Alat Kesehatan untuk <b>RSUD Hadji Boejasin</b>.</p>
       <p>
         <img src="https://img.shields.io/badge/CodeIgniter_4-EF4223?style=flat-square&logo=codeigniter&logoColor=white"/>
@@ -100,7 +100,7 @@ const sahlil = {
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>🍗 Production Management System</h3>
+      <h3> Production Management System</h3>
       <p>Sistem Manajemen Produksi <b>Go Chicken Go</b> terintegrasi WhatsApp API (Fonnte).</p>
       <p>
         <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
@@ -110,17 +110,17 @@ const sahlil = {
   </tr>
 </table>
 
-> 🖥️ **Server Administration:** Deployment manual pada server **Ubuntu**, konfigurasi **Nginx (Reverse Proxy & Virtual Host)**, **aaPanel**, keamanan **SSL/HTTPS**, dan pengaturan **Firewall**.
+>  **Server Administration:** Deployment manual pada server **Ubuntu**, konfigurasi **Nginx (Reverse Proxy & Virtual Host)**, **aaPanel**, keamanan **SSL/HTTPS**, dan pengaturan **Firewall**.
 
 ---
 
-## 🎓 Education & Additional Skills
+## Education & Additional Skills
 
 <div align="center">
   <table>
     <tr>
       <td width="50%" valign="top">
-        <h4>🏛️ Education</h4>
+        <h4> Education</h4>
         <ul>
           <li><b>Politeknik Negeri Tanah Laut</b></li>
           <li>Diploma Teknologi Informasi</li>
@@ -128,7 +128,7 @@ const sahlil = {
         </ul>
       </td>
       <td width="50%" valign="top">
-        <h4>⭐ Additional Skills</h4>
+        <h4> Additional Skills</h4>
         <ul>
           <li>Bug Fixing & Source Code Troubleshooting</li>
           <li>Basic Network Configuration</li>
@@ -142,7 +142,7 @@ const sahlil = {
 
 ---
 
-## 📈 GitHub Statistics
+## GitHub Statistics
 
 <div align="center">
   <!-- <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sahlil&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8" /> -->
@@ -159,7 +159,7 @@ const sahlil = {
 
 ---
 
-## 📫 Let's Connect
+## Let's Connect
 
 <div align="center">
 
