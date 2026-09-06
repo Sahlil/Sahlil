@@ -83,7 +83,7 @@ const sahlil = {
     </td>
     <td width="50%" valign="top">
       <h3> Real-time Mobile Streaming</h3>
-      <p>Aplikasi mobile untuk manajemen streaming CCTV secara langsung (live monitoring).</p>
+      <p>A mobile app for real-time CCTV stream management (live monitoring).</p>
       <p>
         <img src="https://img.shields.io/badge/React_Vite-61DAFB?style=flat-square&logo=react&logoColor=black"/>
         <img src="https://img.shields.io/badge/Golang-00ADD8?style=flat-square&logo=go&logoColor=white"/>
