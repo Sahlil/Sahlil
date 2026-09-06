@@ -123,7 +123,7 @@ const sahlil = {
         <h4> Education</h4>
         <ul>
           <li><b>Politeknik Negeri Tanah Laut</b></li>
-          <li>Diploma Teknologi Informasi</li>
+          <li>Diploma in Information Technology</li>
           <li>IPK: <b>3.85 / 4.00</b></li>
         </ul>
       </td>
