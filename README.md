@@ -93,7 +93,7 @@ const sahlil = {
   <tr>
     <td width="50%" valign="top">
       <h3> Medical Equipment Management</h3>
-      <p>Sistem Manajemen Alat Kesehatan untuk <b>RSUD Hadji Boejasin</b>.</p>
+      <p>A Medical Equipment Management System for <b>RSUD Hadji Boejasin</b>.</p>
       <p>
         <img src="https://img.shields.io/badge/CodeIgniter_4-EF4223?style=flat-square&logo=codeigniter&logoColor=white"/>
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
