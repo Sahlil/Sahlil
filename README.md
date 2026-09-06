@@ -101,7 +101,7 @@ const sahlil = {
     </td>
     <td width="50%" valign="top">
       <h3> Production Management System</h3>
-      <p>Sistem Manajemen Produksi <b>Go Chicken Go</b> terintegrasi WhatsApp API (Fonnte).</p>
+      <p><b>Go Chicken Go</b>'s Production Management System, integrated with the WhatsApp API (Fonnte).</p>
       <p>
         <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
         <img src="https://img.shields.io/badge/WhatsApp_API-25D366?style=flat-square&logo=whatsapp&logoColor=white"/>
