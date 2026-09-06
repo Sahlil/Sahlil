@@ -29,7 +29,7 @@ const sahlil = {
 };
 ```
 
-> Saya adalah **Praktisi IT** yang berfokus pada **Pengembangan Web & Mobile** serta **Administrasi Server**. Terbiasa membangun sistem dengan ekosistem modern dan mengelola infrastruktur server secara mandiri untuk memastikan aplikasi berjalan **optimal, aman, dan andal**.
+> I'm an **IT Practitioner** focused on **Web & Mobile Development** and **Server Administration**. I'm used to building systems with modern ecosystems and managing server infrastructure on my own to make sure applications run **optimally, securely, and reliably**.
 
 <br clear="right"/>
 
