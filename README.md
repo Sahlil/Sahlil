@@ -75,7 +75,7 @@ const sahlil = {
   <tr>
     <td width="50%" valign="top">
       <h3> Inventory Management Systems</h3>
-      <p>Sistem inventaris gudang berbasis web untuk <b>PT Jasa Bara Anugerah (JBA)</b> & <b>PT Raja Ayam Dubai</b>.</p>
+      <p>A web-based warehouse inventory system for <b>PT Jasa Bara Anugerah (JBA)</b> & <b>PT Raja Ayam Dubai</b>.</p>
       <p>
         <img src="https://img.shields.io/badge/Laravel_12-FF2D20?style=flat-square&logo=laravel&logoColor=white"/>
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
