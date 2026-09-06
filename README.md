@@ -25,7 +25,7 @@ const sahlil = {
     education: "Information Technology (GPA: 3.88/4.00)",
     focus: ["Web Development", "Mobile Development", "Server Administration"],
     currentlyBuilding: "Enterprise & Inventory Management Systems",
-    passion: "Membangun sistem yang optimal, aman, & scalable",
+    passion: "Building optimal, secure, & scalable systems",
 };
 ```
 
