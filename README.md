@@ -110,7 +110,7 @@ const sahlil = {
   </tr>
 </table>
 
->  **Server Administration:** Deployment manual pada server **Ubuntu**, konfigurasi **Nginx (Reverse Proxy & Virtual Host)**, **aaPanel**, keamanan **SSL/HTTPS**, dan pengaturan **Firewall**.
+>  **Server Administration:** Manual deployment on **Ubuntu** servers, **Nginx** configuration (Reverse Proxy & Virtual Host), **aaPanel**, **SSL/HTTPS** security, and **Firewall** management.
 
 ---
 
