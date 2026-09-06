@@ -133,7 +133,7 @@ const sahlil = {
           <li>Bug Fixing & Source Code Troubleshooting</li>
           <li>Basic Network Configuration</li>
           <li>Data Processing (Excel)</li>
-          <li>3rd Party API Integration (Midtrans, Whatsapp API dll)</li>
+          <li>3rd-Party API Integration (Midtrans, WhatsApp API, etc.)</li>
         </ul>
       </td>
     </tr>
