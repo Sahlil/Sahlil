@@ -124,7 +124,7 @@ const sahlil = {
         <ul>
           <li><b>Politeknik Negeri Tanah Laut</b></li>
           <li>Diploma in Information Technology</li>
-          <li>GPA: <b>3.85 / 4.00</b></li>
+          <li>GPA: <b>3.88 / 4.00</b></li>
         </ul>
       </td>
       <td width="50%" valign="top">
