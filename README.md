@@ -154,7 +154,7 @@ const sahlil = {
 </div> -->
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sahlil&theme=react-dark&bg_color=0D1117&color=38BDF8&line=38BDF8&point=FFFFFF&hide_border=true&custom_days=7" width="90%"/>
+  <img src="[https://github-readme-activity-graph.vercel.app/graph?username=Sahlil&theme=react-dark&bg_color=0D1117&color=38BDF8&line=38BDF8&point=FFFFFF&hide_border=true&custom_days=7](https://github-readme-stats.vercel.app/api/top-langs/?username=sahlil&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)" width="90%"/>
 </div>
 
 ---
